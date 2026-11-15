@@ -27,3 +27,5 @@ build
 # res/drawable*/g_outline.png
 
 release-versions/current
+build/
+build.log
